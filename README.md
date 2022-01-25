@@ -1,0 +1,1 @@
+Rock Paper Scissors is a childhood favorite of many, and works similarly on the computer to how it does in person.  The player chooses one of the three rock, paper, or scissors, and the computer plays the same on the other side.  There is an immediate winner, and the game challenges the player to try to think strategically to try to outsmart the computer.
